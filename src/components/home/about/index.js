@@ -16,7 +16,7 @@ const About = () => {
               </div>
               <div>
                 <p className="font-normal text-white text-lg leading-[28px] text-primary text-center lg:text-left">
-                  Within the DeLux Network, our mission revolves around
+                  Within the Lux Network, our mission revolves around
                   collaborating with visionary creators to unveil groundbreaking
                   collections and blockchain solutions worldwide. 0ur `range
                   extends from cutting-edge interoperable NFT technologies to
