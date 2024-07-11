@@ -44,7 +44,7 @@ const About = () => {
               Your Gateway to the Creator Economy
             </h3>
             <p className="max-w-2xl text-base text-white text-start ">
-              Within the DeLux Network, our mission revolves around
+              Within the Lux Network, our mission revolves around
               collaborating with visionary creators to unveil groundbreaking
               collections and blockchain solutions worldwide. 0ur `range extends
               from cutting-edge interoperable NFT technologies to pioneering
