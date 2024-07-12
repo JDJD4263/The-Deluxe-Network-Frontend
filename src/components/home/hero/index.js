@@ -44,7 +44,7 @@ const Hero = () => {
               </h1>
             </div>
             <p className="text-sm text-gray-400 lg:text-base">
-              Step out from the crowd and embrace your inner lion with the Delux
+              Step out from the crowd and embrace your inner lion with the Lux
               Network. We’re here to revolutionize the crypto landscape, leaving
               the EVM crowd in the dust. Our foundation rests on the powerful
               XRP Ledger, driving our innovation forward. Become a trailblazer
