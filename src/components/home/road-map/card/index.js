@@ -3,7 +3,7 @@ const roadMaps = [
     year: "2024",
     quarter: "Q1",
     description:
-      "<p > LUX LAB EXPANSION & CROSS COLLABORATIONS <br /> <br /> NFT REWARD BOOSTER SYSTEM FOR PURCHASES <br /> <br /> AI INTEGRATION FOR LUX LIONS & TDN <br /> <br />  GROW SOCIAL MEDIA TO 5,000 <br /> <br />  GROW UNIQUE NFT HOLDERS TO 500 </p>",
+      "<p > LUX LAB EXPANSION & CROSS COLLABORATIONS <br /> <br /> NFT REWARD BOOSTER SYSTEM FOR PURCHASES <br /> <br /> AI INTEGRATION FOR LUX LIONS & TDN <br /> <br />  GROW SOCIAL MEDIA TO 5,000 <br /> <br />  GROW UNIQUE NFT HOLDERS TO 300 </p>",
   },
   {
     year: "2024",
