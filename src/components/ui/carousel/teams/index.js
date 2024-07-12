@@ -10,7 +10,7 @@ const mainSettings = {
   slidesToScroll: 1,
   slidesToShow: 3,
   arrows: true,
-  swipeToSlide: true,
+  swipeToSlide: false,
   draggable: true,
 };
 
