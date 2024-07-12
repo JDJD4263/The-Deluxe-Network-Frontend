@@ -5,7 +5,7 @@ import TeamCard from "./cards";
 
 const mainSettings = {
   dots: false,
-  infinite: true,
+  infinite: false,
   speed: 500,
   slidesToScroll: 1,
   slidesToShow: 3,
