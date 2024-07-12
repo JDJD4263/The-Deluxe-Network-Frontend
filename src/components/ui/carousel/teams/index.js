@@ -7,7 +7,7 @@ const mainSettings = {
   dots: false,
   infinite: true,
   speed: 500,
-  slidesToScroll: 1,
+  slidesToScroll: 0,
   slidesToShow: 3,
   arrows: true,
   swipeToSlide: false,
