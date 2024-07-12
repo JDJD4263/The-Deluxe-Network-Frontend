@@ -7,10 +7,10 @@ const mainSettings = {
   dots: false,
   infinite: true,
   speed: 500,
-  slidesToScroll: 0,
+  slidesToScroll: 1,
   slidesToShow: 3,
   arrows: true,
-  swipeToSlide: false,
+  swipeToSlide: true,
   draggable: true,
 };
 
