@@ -40,7 +40,7 @@ const Hero = () => {
               </div> */}
 
               <h1 className="text-2xl font-bold tracking-tight text-white uppercase lg:text-5xl ">
-                Discover the Power of XRP, Blockchain and Cryptocurrency
+                Unlock the Power of Arbitrum, Blockchain, and Crypto—Fast, Scalable, and Ready to 100x!
               </h1>
             </div>
             <p className="text-sm text-gray-400 lg:text-base">
