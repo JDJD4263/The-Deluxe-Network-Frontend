@@ -44,14 +44,9 @@ const Hero = () => {
               </h1>
             </div>
             <p className="text-sm text-gray-400 lg:text-base">
-              Step out from the crowd and embrace your inner lion with the Lux
-              Network. We’re here to revolutionize the crypto landscape, leaving
-              the EVM crowd in the dust. Our foundation rests on the powerful
-              XRP Ledger, driving our innovation forward. Become a trailblazer
-              and join a community that’s shaping the future of cryptocurrency.
-              Lead the pack alongside fellow enthusiasts and creators, as we
-              forge ahead to create lasting value in the next generation of
-              digital assets.
+              Break free from the ordinary and join the revolution. Lux Network isn’t just another token—it’s a movement reshaping the crypto landscape. Built on the power and speed of Arbitrum, we’re leaving the EVM crowd behind and setting new standards for innovation.
+
+Step into a community of trailblazers, visionaries, and creators driving the future of digital assets. This is your chance to lead the pack, embrace the future, and be part of something bigger. The next evolution of crypto starts here. Are you ready?
             </p>
             {/* <button className="px-10 py-1 text-sm font-semibold text-white rounded-2xl bg-primary-purple hover:shadow-md hover:shadow-primary-purple">
               Explore
