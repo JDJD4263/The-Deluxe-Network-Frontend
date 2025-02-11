@@ -6,8 +6,8 @@ import "slick-carousel/slick/slick-theme.css";
 const dm_sans = DM_Sans({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'The Delux Network',
-  description: 'The Delux Network',
+  title: 'The Lux Network',
+  description: 'The Lux Network',
 }
 
 export default function RootLayout({ children }) {
