@@ -40,7 +40,7 @@ const Hero = () => {
               </div> */}
 
               <h1 className="text-2xl font-bold tracking-tight text-white uppercase lg:text-5xl ">
-                Unlock the Power of Arbitrum, Blockchain, and Crypto—Fast, Scalable, and Ready to 100x!
+                Discover the Power of $TLN—The Ultimate Web3 Gaming Token on Arbitrum!
               </h1>
             </div>
             <p className="text-sm text-gray-400 lg:text-base">
