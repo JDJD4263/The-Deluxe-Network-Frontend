@@ -5,7 +5,7 @@ const faqs = [
   {
     question: "What is the contract address for $TLN?",
     answer:
-      "The contract address for $TLN is 0xDd1Ddd4D978ac0BaEF4bfa9C7E91853bFcE90F11 Make sure to use this address when interacting with the token to avoid any errors or scams.",
+      "The contract address for $TLN is 0xDd1Ddd4D978ac0BaEF4bfa9C7E91853bFcE90F11",
   },
   {
     question: "Where can I buy $TLN?",
@@ -15,7 +15,13 @@ const faqs = [
   {
     question: "Is $TLN listed on LiveCoinWatch or CoinGecko?",
     answer:
-      "Yes! You can track the price, volume, and other important metrics for $TLN on LiveCoinWatch and CoinGecko. Keep an eye on these platforms for the latest market updates.",
+      "Yes! You can track the price, volume, and other important metrics for $TLN on{' '}
+      <a href="https://www.livecoinwatch.com/price/TheLuxNetwork-_TLN" target="_blank" rel="noopener noreferrer">
+        LiveCoinWatch
+      </a> and{' '}
+      <a href="https://www.coingecko.com/en/coins/the-lux-network" target="_blank" rel="noopener noreferrer">
+        CoinGecko
+      </a>. Keep an eye on these platforms for the latest market updates.",
   },
   {
     question: "Is $TLN a deflationary token?",
