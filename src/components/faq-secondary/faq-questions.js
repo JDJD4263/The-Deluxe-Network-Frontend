@@ -1,19 +1,18 @@
 export const faqSecondary = [
     {
-      question:
-        "How are early NFTs evolving to provide more utility and functionality?",
+      question: "What makes $TLN different from other tokens in the market?",
       answer:
-        "Early NFTs primarily consisted of images and media clips, but as the technology progresses, creators are working to provide utility functions for NFTs. These functions include access, exclusive content, usability in games and Metaverses, and other value-enhancing features.",
+        "$TLN is the core utility token of the Lux Lions ecosystem, seamlessly integrated across Web3 gaming.",
     },
     {
-      question: "What is the Lux Network TLN Market?",
+      question: "How is $TLN positioned to succeed in the coming years?",
       answer:
-        "The Lux Network TLN Market is a platform that serves as a principal dealer for exclusive digital items and NFT collections. It enables both TLN Members and the general public to buy and sell these items, using either XRP or TLN Tokens as the initial payment methods. The TLN Market provides preferential pricing to TLN Members and token holders, offering them discounts over using XRP or other cryptocurrencies.",
+        "$TLN is the foundation for a rapidly expanding ecosystem, including the Lux Lions Metaverse, NFT marketplace, and Web3 gaming hub. With strategic partnerships, a focus on utility, and continuous development, $TLN is well-positioned to be at the center of the next wave in the blockchain space.",
     },
     {
-      question: "How does the TLN Market work for sellers?",
+      question: "Can $TLN be used for more than just buying NFTs and gaming assets?",
       answer:
-        "Sellers can either get an instant price for their items or opt for a consignment arrangement, where the TLN Market sells the items on their behalf. Upon successful sale completion, sellers receive TLN Tokens as payment for their items.",
+        "Absolutely! Beyond purchasing NFTs and in-game assets, $TLN serves as the in-game currency for staking, wagering, and trading in Lux Lions’ Web3 gaming ecosystem. As more use cases are developed, $TLN will continue to provide real-world value for holders.",
     },
     {
       question: "What is the role of the TLN Token in the ecosystem?",
@@ -100,9 +99,5 @@ export const faqSecondary = [
         answer:
           "The Lux Network provides solutions that bridge the gap between Web 2.0 and Web 3.0 environments. It offers technologies that enable traditional online initiatives, like legacy websites and eCommerce stores, to coexist in the emerging Web 3.0 environment.",
       },
-      {
-        question: "What is the difference between Ripple and XRP?",
-        answer:
-          "Ripple is a technology company and XRP is an open-source digital asset independent of Ripple. Ripple uses XRP in its solutions because it’s fast, efficient, reliable and carbon-neutral—and because it seamlessly supports our customers’ compliance efforts.",
-      },
+      
   ];
