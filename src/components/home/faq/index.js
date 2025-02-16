@@ -3,24 +3,24 @@ import { useRouter } from "next/navigation";
 const { Disclosure } = require("@headlessui/react");
 const faqs = [
   {
-    question: "What is Web3 or Web 3.0?",
+    question: "What is the contract address for $TLN?",
     answer:
-      "Web3, also known as Web 3.0, refers to a new iteration of the World Wide Web that incorporates concepts like decentralization, blockchain technologies, digital identity, and token-based economics. It aims to create a more immersive and interconnected online experience.",
+      "The contract address for $TLN is 0xDd1Ddd4D978ac0BaEF4bfa9C7E91853bFcE90F11 Make sure to use this address when interacting with the token to avoid any errors or scams.",
   },
   {
-    question: "What is the Metaverse?",
+    question: "Where can I buy $TLN?",
     answer:
-      "The Metaverse is an open world, virtual reality-based successor to the internet, where users explore expansive online worlds using digital avatars. It encompasses various virtual environments and platforms that offer immersive and decentralized experiences.",
+      "$TLN is available on Bitmart, Ascendex, Lbank, Uniswap. Be sure to check official channels for any updates on new listings and platforms where $TLN will be available.",
   },
   {
-    question: "How does blockchain technology contribute to the Metaverse??",
+    question: "Is $TLN listed on LiveCoinWatch or CoinGecko?",
     answer:
-      "Blockchain technology enables true asset ownership, censorship resistance, and interoperability between different Metaverse environments. It ensures secure ownership of digital goods and facilitates the movement of value across platforms and networks.",
+      "Yes! You can track the price, volume, and other important metrics for $TLN on LiveCoinWatch and CoinGecko. Keep an eye on these platforms for the latest market updates.",
   },
   {
-    question: "How does blockchain technology contribute to the Metaverse??",
+    question: "Is $TLN a deflationary token?",
     answer:
-      "Blockchain technology enables true asset ownership, censorship resistance, and interoperability between different Metaverse environments. It ensures secure ownership of digital goods and facilitates the movement of value across platforms and networks.",
+      "Yes, $TLN has a deflationary mechanism in place, with a portion of each transaction burned or used to support tokenomics. This helps reduce supply over time, potentially increasing scarcity and value as demand grows.",
   },
 ];
 
