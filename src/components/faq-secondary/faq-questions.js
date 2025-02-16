@@ -105,14 +105,4 @@ export const faqSecondary = [
         answer:
           "Ripple is a technology company and XRP is an open-source digital asset independent of Ripple. Ripple uses XRP in its solutions because it’s fast, efficient, reliable and carbon-neutral—and because it seamlessly supports our customers’ compliance efforts.",
       },
-      {
-        question: "What is XRP?",
-        answer:
-          "XRP is an open-source digital asset built to be the most practical cryptocurrency for applications across the financial services space.",
-      },
-      {
-        question: "Where can I find out more about the XRP Ledger?",
-        answer:
-          `You can learn more about the XRP Ledger on&nbsp;<a class="font-bold hover:text-blue-50" href="https://xrpl.org/" target="_blank" rel="noopener">https://xrpl.org</a>, a community-driven resource by and for developers who build on the XRP Ledger (XRPL).`,
-      },
   ];
